@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import "components/header.css";
+@import "reset.css";
+
+@import "screens/about.css";
+@import "screens/colorwitch.css";
+@import "screens/letswalkpfp.css";
+@import "screens/chimpers.css";
+@import "screens/wonderpals.css";
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin-bottom: 50px;
+}

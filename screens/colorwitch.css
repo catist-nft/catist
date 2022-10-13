@@ -1,0 +1,12 @@
+.colorwitch-stories {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.colorwitch-story {
+    width: 800px;
+}

@@ -1,0 +1,33 @@
+main {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 18px;
+}
+
+.about-images {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin-bottom: 15px;
+}
+
+.about-introduce {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-introduce__words {
+    width: 800px;
+}
+
+.nav-about {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+.nav-about a {
+    display: flex;
+}
