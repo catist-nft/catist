@@ -11,3 +11,32 @@
     height: 500px;
     margin-bottom: 15px;
 }
+
+.nav-chimpers {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.link-chimpers {
+    width: 120px;
+    font-size: 14px;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+}
+
+.battle-info {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.battle-info-link {
+    width: 300px;
+    font-size: 20px;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+}
