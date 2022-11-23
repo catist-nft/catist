@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
 @import "components/header.css";
+@import "components/no-mobile.css";
 @import "reset.css";
 
 @import "screens/about.css";
@@ -8,6 +9,7 @@
 @import "screens/chimpers.css";
 @import "screens/wonderpals.css";
 @import "screens/deekayverse.css";
+
 
 a:hover {
     text-decoration: underline;
